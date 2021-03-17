@@ -965,12 +965,12 @@
 	#featured h3
 	{
 		display: block;
-		font-weight: 300;
+		font-weight: 600;
 	}
 
 	#featured .pennant
 	{
-		font-size: 4em;
+		font-size: 10em;
 	}
 	
 	#featured .button
